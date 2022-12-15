@@ -9,7 +9,7 @@ public class Task1 {
         double avg;
         String inputReader;
         String studentID;
-        String name = null;
+        String name;
 
         final JDialog dialog = new JDialog();
         dialog.setAlwaysOnTop(true);
