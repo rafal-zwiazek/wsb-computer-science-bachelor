@@ -1,4 +1,5 @@
-import javax.swing.*;
+import javax.swing.JOptionPane;
+import javax.swing.JDialog;
 import java.util.Scanner;
 
 public class Task1 {
